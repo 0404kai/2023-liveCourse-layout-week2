@@ -1,0 +1,187 @@
+.w-fit {
+  width: fit-content;
+}
+
+.text-lg {
+  font-size: 20px;
+}
+.text-xl {
+  font-size: 24px;
+}
+.text-2xl {
+  font-size: 64px;
+}
+.text-3xl {
+  font-size: 128px;
+}
+
+.text-primary {
+  color: #D1D1D1;
+}
+.text-secondary {
+  color: #15161D;
+}
+.text-success {
+  color: #00FFA3;
+}
+.text-white {
+  color: #fff;
+}
+.text-black {
+  color: #000;
+}
+
+.bg-white {
+  background-color: #fff;
+}
+.bg-black {
+  background-color: #000;
+}
+
+.border-1 {
+  border: 1px solid;
+}
+.border-info {
+  border-color: #E3E3E3;
+}
+
+.text-center {
+  text-align: center;
+}
+.text-right {
+  text-align: right;
+}
+
+.block {
+  display: block;
+}
+.flex {
+  display: flex;
+}
+.grid {
+  display: grid;
+}
+
+.flex-col {
+  flex-direction: column;
+}
+.flex-wrap {
+  flex-wrap: wrap;
+}
+
+.justify-between {
+  justify-content: space-between;
+}
+.justify-center {
+  justify-content: center;
+}
+
+.item-center {
+  align-items: center;
+}
+.self-center {
+  align-self: center;
+}
+
+.grid-flow-col {
+  grid-auto-flow: column;
+}
+.row-span-3 {
+  grid-row: span 3 / span 3;
+}
+.row-span-2 {
+  grid-row: span 2 / span 2;
+}
+.col-span-2 {
+  grid-column: span 2 / span 2;
+}
+.col-span-3 {
+  grid-column: span 3 / span 3;
+}
+
+.rounded-32 {
+  border-radius: 32px;
+}
+
+.p-16 {
+  padding: 16px;
+}
+.pt-40 {
+  padding-top: 40px;
+}
+.px-24 {
+  padding-left: 24px;
+  padding-right: 24px;
+}
+.py-12 {
+  padding-top: 12px;
+  padding-bottom: 12px;
+}
+.py-40 {
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+.py-72 {
+  padding-top: 72px;
+  padding-bottom: 72px;
+}
+.py-96 {
+  padding-top: 96px;
+  padding-bottom: 96px;
+}
+.py-160 {
+  padding-top: 160px;
+  padding-bottom: 160px;
+}
+
+.mt-auto {
+  margin-top: auto;
+}
+.mr-16 {
+  margin-right: 16px;
+}
+.mr-20 {
+  margin-right: 20px;
+}
+.mr-24 {
+  margin-right: 24px;
+}
+.ml-auto {
+  margin-left: auto;
+}
+.mb-4 {
+  margin-bottom: 4px;
+}
+.mb-16 {
+  margin-bottom: 16px;
+}
+.mb-32 {
+  margin-bottom: 32px;
+}
+.mb-36 {
+  margin-bottom: 36px;
+}
+
+.gap-24 {
+  gap: 24px;
+}
+.gap-y-28 {
+  row-gap: 29px;
+}
+
+.w-48 {
+  width: 48%;
+}
+.w-2\/5 {
+  width: 40%;
+}
+.w-1\/2 {
+  width: 50%;
+}
+.w-4\/5 {
+  width: 80%;
+}
+
+.drop-shadow {
+  box-shadow: 4px 4px 4px 0px #00000014;
+}
